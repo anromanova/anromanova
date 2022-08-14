@@ -10,7 +10,7 @@ Having the diverse experience I am looking for opportunities to grow in Front-En
 - [English for kids](https://anromanova-english-for-kids.netlify.app/) ([github repository](https://github.com/anromanova/english-for-kids)) app for learning English words for kids
 - [Migration Newip To Ts](https://rolling-scopes-school.github.io/anromanova-JSFEEN2022/migration-newip-to-ts/index.html) ([github repository](https://github.com/anromanova/JS-to-TS)) migration existed app on TS
 - [Photography portfolio page](https://anromanova.github.io/stage0-rep/portfolio/) ([github repository](https://github.com/anromanova/stage0-rep/tree/portfolio)) Landing page with adaptive and interactive design (light and dark theme, custom video player, language change mode).
-- [Device](https://anromanova.github.io/device/) ([github repository](https://github.com/anromanova/device)) Two pages site for shop (non-adaptive)
+- [Device](https://anromanova.github.io/device/), [Device-Catalog](https://anromanova.github.io/device/catalog.html) ([github repository](https://github.com/anromanova/device)) Two pages site for shop (non-adaptive)
 - [Memory game](https://anromanova.github.io/stage0-rep/memory-game/) ([github repository](https://github.com/anromanova/stage0-rep/tree/memory-game))
 - [Random Quote](https://anromanova.github.io/stage0-rep/random-jokes/) ([github repository](https://github.com/anromanova/stage0-rep/tree/random-jokes))
 - [CSS mem slider](https://anromanova.github.io/cssMemSlider/cssMemSlider/) ([github repository](https://github.com/anromanova/cssMemSlider/tree/gh-pages)) Pure CSS mem slider
