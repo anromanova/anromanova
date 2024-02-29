@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m currently learning at Javascript/Front-end Mentoring Program (in English) at [The Rolling Scopes School](https://rs.school/js-en/)
+Currently, work as a junior Frontend developer and doing a bachelor's degree at EPAM School of Digital Engineering (ESDE) 
 
-Having the diverse experience I am looking for opportunities to grow in Front-End Development. I have a strong organizational ability, skilled at working closely with others in a team environment and with a flexible approach to work. I'm working on projects for my portfolio.
+Having the diverse experience I am looking for opportunities to grow in Front-End Development. I have a strong organizational ability, skilled at working closely with others in a team environment and with a flexible approach to work.
 
 #### My projects:
 - [Shelter](https://anromanova.github.io/Shelter/pages/main/) ([github repository](https://github.com/anromanova/Shelter)) Two pages site with adaptive and interactive design (pagination, popup, slider, burger menu).
@@ -17,12 +17,14 @@ Having the diverse experience I am looking for opportunities to grow in Front-En
 
 ## Skills:
 
-- **Responsive web-development:** HTML5, CSS/SCSS;
+- **Responsive web-development:** HTML5, CSS/SCSS, Tailwind;
 - JavaScript (ES6), TypeScript (basics);
-- **Code bundlers:** Webpack;
+- React, Next.js;
+- WordPress (basics), AFC (basics), PHP (basics);
+- **Code bundlers:** Webpack, Vite;
 - **Graphic Editors:** Adobe Photoshop, Figma;
 - BEM methodology
-- Git / GitHub / VS Code
+- Git / GitHub/ GitLab / VS Code / WebStorm
 
 ## Education:
 
@@ -30,8 +32,14 @@ Having the diverse experience I am looking for opportunities to grow in Front-En
 2013\
 Novosibirsk, Russia
 
+- **[EPAM School of Digital Engineering (ESDE)](https://ehu.esde.lt/about-school)**\
+2022 -2027 \
+Bachelor of Computer Science (Part-time/sessional) \
+Second year \
+Vilnius, Lithuania
+
 - **Courses:**
-   - The Rolling Scopes School. Javascript/Front-end Mentoring Program (in English) March 2022 - currently
+   - The Rolling Scopes School. Javascript/Front-end Mentoring Program (in English) March 2022 - August 2022
    - The Rolling Scopes School. JS / Frontend Development Course. Stage 0. December 2021 - February 2022 [certificate](https://app.rs.school/certificate/v6qgz8yj)
 
 ## Languages
